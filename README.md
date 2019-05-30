@@ -1,5 +1,5 @@
 # Collaborative-filtering-based-recommender-systems-using-Pareto-dominance
-    Recommend er Systems (RS) are responsible for providing users with a series of personali sed suggestions (recommenda- tions) for certain types of items. RS extract the user’s relevant characterist ics and determine the subset of items that may be of interest to them.
+    Recommend er Systems (RS) are responsible for providing users with a series of personalised suggestions (recommenda- tions) for certain types of items. RS extract the user’s relevant characterist ics and determine the subset of items that may be of interest to them.
     The way RS work can differ to a great extent depending on the types of items to be recommended and the available infor-mation about the user’s preferenc es. Therefore, RS must be able to use different mechanism s to obtain the most promising items for each user. RS are commonly called ‘‘filters’’ because they act as such.
     This projet is basically based on Collaborative FIltering.
     CF suffers from two main interrelated problems:
